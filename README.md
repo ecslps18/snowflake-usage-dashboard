@@ -76,7 +76,7 @@ snowflake-usage-dashboard/
 1️. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/snowflake-usage-dashboard.git
+git clone https://github.com/ecslps18/snowflake-usage-dashboard.git
 cd snowflake-usage-dashboard
 ```
 
